@@ -8,7 +8,3 @@ btn.addEventListener('click', ()=>{
 console.log("Hi!")
 console.log("Hi!")
 
-
-const API_1 = "http://localhost:8080";
-const API_2 = "http://localhost:80801";
-const API_3 = "http://localhost:80802";
