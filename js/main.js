@@ -7,4 +7,5 @@ btn.addEventListener('click', ()=>{
 
 console.log("Hi!")
 console.log("Hi!")
+console.log("Папа!")
 
