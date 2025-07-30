@@ -7,3 +7,6 @@ btn.addEventListener('click', ()=>{
 
 console.log("Hi!")
 console.log("Hi!")
+
+
+const API_1 = "http://localhost:8080";
